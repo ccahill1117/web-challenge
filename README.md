@@ -14,6 +14,15 @@
   and work locally. Then, send us a tar.gz of your solution, including your `.git` folder 
   so we can see your commit history.
 
+We are more interested in getting a view into how you approach the problem than 
+anything else, so a good commit history is vital. 
+
+This isn't a timed test, so don't think of the commit history as being a measure of 
+pace - we're not looking at that.
+We understand this is something you'll be working on in between other things.
+If, for some reason, you feel unable to complete the entire exercise, that's fine.
+Just try to give us enough code to look at to get a sense of your approach.
+
 # Implementation Guidelines
 
 Your implementation should meet the following requirements:
